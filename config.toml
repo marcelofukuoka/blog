@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
 
 [params]
-  orgName = "Smart Vistos"
+  orgName = "Marcelo M. Fukuoka"
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
@@ -107,20 +107,25 @@ enableEmoji = true
 [menu]
   # Configure header
   [[menu.header]]
+    name = "Home"
+    title = "Home"
+    url = "https://blog.smartvistos.com.br/"
+    weight = 1
+  [[menu.header]]
     name = "About"
     title = "About Blogophonic"
     url = "/about/"
-    weight = 1
+    weight = 2
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Contato"
     title = "Contato"
     url = "/contato/"
-    weight = 3
+    weight = 4
 
   # Configure footer
   [[menu.footer]]
