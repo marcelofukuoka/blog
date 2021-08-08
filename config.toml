@@ -122,9 +122,9 @@ enableEmoji = true
     url = "/blog/"
     weight = 3
   [[menu.header]]
-    name = "Contato"
-    title = "Contato"
-    url = "/contato/"
+    name = "Smart Vistos"
+    title = "Smart Vistos"
+    url = "https://www.smartvistos.com.br/"
     weight = 4
 
   # Configure footer
