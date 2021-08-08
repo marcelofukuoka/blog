@@ -1,6 +1,6 @@
 ---
-action_label: Leia Mais &rarr;
-action_link: /about
+action_label: Blog posts &rarr;
+action_link: /blog
 action_type: text
 description: Eu sou um *registered migration agent* com pós-graduação em direito de imigração australiana pela Australian National University e também com mestrado em engenharia pela The University of Newcastle. Possuo mais de 10 anos de vivência na Austrália. Sócio-diretor na Smart Vistos.  
 image_left: true
