@@ -12,7 +12,7 @@ intro: |
   <i class="fas fa-graduation-cap"></i> Graduate Certificate in Australian Migration Law  
   *The Australian National University (2012)*  
   
-  <i class="fas fa-graduation-cap"></i> Master of Engineering Management
+  <i class="fas fa-graduation-cap"></i> Master of Engineering Management  
   *The University of Newcastle (2005)*  
   
   <i class="fas fa-graduation-cap"></i> Bachelor of Electrical Engineering  
