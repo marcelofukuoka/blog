@@ -84,19 +84,19 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "far"
-      url       = "mailto:marcelo@smartvistos.com.br"
+      url       = "mailto:info@smartvistos.com.br"
+  [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/smartvistos"
+  [[params.social]]
+      icon      = "facebook" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.facebook.com/smartvistos"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/marcelo-mota-fukuoka-2514b0/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/marcelofukuoka"
-  [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/marcelofukuoka"
 
 
 [taxonomies]
