@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "Smart Vistos"
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/"
+  favicon = "/img/canguru.png"
   logo = "/img/canguru_blue.jpg"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -128,6 +128,11 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
+  [[menu.footer]]
+    name = "RSS"
+    title = "RSS"
+    url = "/blog/index.xml"
+    weight = 2
 
 
 
